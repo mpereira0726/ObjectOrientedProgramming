@@ -6,6 +6,7 @@ public class Cat {
     public String gender;
 
     public void displayCatInfo()
+
     {
         System.out.println("Beautiful Cat!");
     }
